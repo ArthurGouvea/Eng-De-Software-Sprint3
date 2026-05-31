@@ -34,3 +34,16 @@ Os artefatos de engenharia de software desenvolvidos para esta Sprint podem ser 
 
 ### 📌 Diagrama de Classes
 <img src="https://github.com/ArthurGouvea/Eng-De-Software-Sprint1/blob/main/Diagramas/Diagrama%20de%20Classes.jpg" alt="Diagrama de Classes" width="100%">
+
+## 🚀 Entrega da Sprint - Protótipo e Documentação de Design
+
+*   **Protótipo Navegável (Figma):** [\[COLE O SEU LINK DO FIGMA AQUI\] _(Certifique-se de que a permissão está como "Anyone with the link can view")_](https://www.figma.com/make/nrBuN7wbsG7XjlX4jzlnKQ/Sprint2---Eng-de-Software?t=KIPsMS4tKiNPxp5k-1&preview-route=%2Fgestao)
+*   **Vídeo de Walkthrough (Até 3 minutos):** [\[COLE O LINK DO SEU VÍDEO - YouTube, Vimeo ou Drive público\]](https://youtu.be/Fl7BBQKYPAU)
+
+## 🕹️ Instruções de Navegação do Protótipo
+
+Para testar os fluxos principais conectados ao desafio do Metaindústria, siga o roteiro abaixo no modo de apresentação do Figma:
+
+1. **Fluxo de EPIs:** Na barra lateral, clique em **Colaboradores** -> Selecione um funcionário para **Consultar EPIs** cadastrados ou clique em **Cadastrar Novo EPI**.
+2. **Fluxo de Alertas de Risco (Visão Computacional):** Vá para a tela de **Monitoramento em Tempo Real**. Simule uma violação (ausência de capacete/óculos) para visualizar a **Emissão do Alerta de Risco** piscando no painel.
+3. **Fluxo de Conformidade:** Acesse a aba **Relatórios** -> Selecione o setor desejado (ex: Usinagem / Montagem) para **Gerar o Relatório de Conformidade por Setor**.
