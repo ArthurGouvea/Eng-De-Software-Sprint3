@@ -37,8 +37,8 @@ Os artefatos de engenharia de software desenvolvidos para esta Sprint podem ser 
 
 ## 🚀 Entrega da Sprint - Protótipo e Documentação de Design
 
-*   **Protótipo Navegável (Figma):** [\[COLE O SEU LINK DO FIGMA AQUI\] _(Certifique-se de que a permissão está como "Anyone with the link can view")_](https://www.figma.com/make/nrBuN7wbsG7XjlX4jzlnKQ/Sprint2---Eng-de-Software?t=KIPsMS4tKiNPxp5k-1&preview-route=%2Fgestao)
-*   **Vídeo de Walkthrough (Até 3 minutos):** [\[COLE O LINK DO SEU VÍDEO - YouTube, Vimeo ou Drive público\]](https://youtu.be/Fl7BBQKYPAU)
+*   **Protótipo Navegável (Figma):** https://www.figma.com/make/nrBuN7wbsG7XjlX4jzlnKQ/Sprint2---Eng-de-Software?t=KIPsMS4tKiNPxp5k-1&preview-route=%2Fgestao
+*   **Vídeo de Walkthrough (Até 3 minutos):** https://youtu.be/Fl7BBQKYPAU
 
 ## 🕹️ Instruções de Navegação do Protótipo
 
