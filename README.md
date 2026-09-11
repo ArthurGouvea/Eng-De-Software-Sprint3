@@ -47,3 +47,6 @@ Para testar os fluxos principais conectados ao desafio do Metaindústria, siga o
 1. **Fluxo de EPIs:** Na barra lateral, clique em **Colaboradores** -> Selecione um funcionário para **Consultar EPIs** cadastrados ou clique em **Cadastrar Novo EPI**.
 2. **Fluxo de Alertas de Risco (Visão Computacional):** Vá para a tela de **Monitoramento em Tempo Real**. Simule uma violação (ausência de capacete/óculos) para visualizar a **Emissão do Alerta de Risco** piscando no painel.
 3. **Fluxo de Conformidade:** Acesse a aba **Relatórios** -> Selecione o setor desejado (ex: Usinagem / Montagem) para **Gerar o Relatório de Conformidade por Setor**.
+Telas novas (Sprint 3)
+4. **Tratamento de Ocorrência:** Fechamento do ciclo de segurança: A versão da Sprint 2 apenas alertava sobre infrações em tempo real, gerando sobrecarga cognitiva sem um caminho de resolução. A nova tela permite auditar o frame congelado da IA, validar se houve falso positivo e documentar a tratativa imediata exigida pelas normas regulamentadoras do SESMT.
+5. **Configuração de Zonas e Câmeras:**  Escalabilidade e flexibilidade industrial: Ambientes fabris possuem áreas com diferentes níveis de periculosidade. Essa tela permite configurar dinamicamente o perímetro de risco (geofencing visual) e os EPIs específicos por máquina, eliminando alarmes falsos em áreas onde certos EPIs não são mandatórios.
