@@ -37,8 +37,10 @@ Os artefatos de engenharia de software desenvolvidos para esta Sprint podem ser 
 
 ## 🚀 Entrega da Sprint - Protótipo e Documentação de Design
 
-*   **Protótipo Navegável (Figma):** https://www.figma.com/make/nrBuN7wbsG7XjlX4jzlnKQ/Sprint2---Eng-de-Software?t=LuGogfAhEHwEbk1R-1&preview-route=%2Finvestigacao
+*   **Protótipo Navegável (Figma):** https://www.figma.com/make/nrBuN7wbsG7XjlX4jzlnKQ/Sprint3---Eng-de-Software?t=urBEgIVWR3K1afGG-1
 *   **Vídeo de Walkthrough (Até 3 minutos):** https://youtu.be/Fl7BBQKYPAU
+*   **Documentação das Cerimônias Scrum: https://docs.google.com/document/d/1KhLR_kX9VBLgVM7DTjNsZLj4j9MjOGIhUhVH86B4hd8/edit?usp=sharing
+*   **Link Trello Organizado: https://trello.com/invite/b/6a89c3d2bb145b955e0cd319/ATTI71a9e22b7478e6da6274682fc72068728ED620B2/sprint3engsoft
 
 ## 🕹️ Instruções de Navegação do Protótipo
 
